@@ -1,0 +1,8 @@
+addon msoffice version 4.104.0.0
+addon core version 4.107.0.0
+addon language version 4.106.1.0
+excel.open
+excel.setvalue ‴random text‴ row 1 colname A
+excel.setvalue ‴54642 5854 22‴ row 1 colname B
+excel.save ♥environment⟦USERPROFILE⟧\Desktop\excelTest.xlsx
+excel.close
